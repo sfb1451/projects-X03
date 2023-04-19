@@ -9,7 +9,7 @@ abstract: 'The cross-linking project X03 focuses on predicting the effects of de
   project areas C and A.'
 authors:
 - {family-names: Barbe, given-names: Michael}
-- {family-names: Weiss-blankenhorn, given-names: Peter}
+- {family-names: Weiss-Blankenhorn, given-names: Peter}
 - {family-names: Semmler, given-names: Carolin}
 cff-version: 1.2.0
 message: Generated with data scraped from crc1451.uni-koeln.de
