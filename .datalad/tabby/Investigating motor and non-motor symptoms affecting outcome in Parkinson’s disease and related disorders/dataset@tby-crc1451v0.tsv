@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-
+# bold indicates required	
+name	Investigating motor and non-motor symptoms affecting outcome in Parkinson’s disease and related disorders.
+title	Preoperative motor deficits and depressive symptoms predict quality of life in patients with Parkinson’s disease at different time points after surgery for subthalamic stimulation: a retrospective study
+description	The cross-linking project X03 focuses on investigating the effects of motor and non-motor symptoms on therapeutic outcomes in patients with Parkinson’s disease and Normal Pressure Hydrocephalus. This first study investigated changes in quality of life in patients with Parkinson's disease after receiving surgery for deep brain stimulation of the subthalamic nucleus. 
+crc-project	X03
+version	latest
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
+keywords	quality of life	deep brain stimulation	parkinson's disease
+license	
+doi	
+homepage	
+last-updated	
